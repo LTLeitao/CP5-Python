@@ -4,6 +4,18 @@ Este projeto consiste em uma pipeline completa de engenharia de dados e visualiz
 
 ---
 
+## Integrantes
+
+Leonardo Teodoro Leitão - RM 569724
+
+Gustavo Almeida Lopes do Nascimento - RM 571070
+
+João Gabriel Mosqueti Agra Cunha - RM 572017
+
+Rafael Yuta Nischida - RM 570552
+
+---
+
 ## 📁 Estrutura do Projeto
 
 ```text
